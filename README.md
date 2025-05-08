@@ -26,14 +26,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://cdn.loom.com/sessions/thumbnails/733c706c5391420594ad915b6360f62e-da6572c3bf09d766-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- <img src='https://cdn.loom.com/sessions/thumbnails/733c706c5391420594ad915b6360f62e-da6572c3bf09d766-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <div>
     <a href="https://www.loom.com/share/733c706c5391420594ad915b6360f62e">
-      <p>Google Chrome - 8 May 2025 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/733c706c5391420594ad915b6360f62e">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/733c706c5391420594ad915b6360f62e-da6572c3bf09d766-full-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/733c706c5391420594ad915b6360f62e-da6572c3bf09d766-full-play.gif" title='Video Walkthrough' alt='Video Walkthrough' />
     </a>
 </div>
 
