@@ -25,6 +25,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
+<img src="https://github.com/user-attachments/assets/711fda6e-f40a-48bd-b495-b687e24c8364" title='Video Walkthrough' alt='Video Walkthrough'/>
+
+
 <div>
     <a href="https://www.loom.com/share/733c706c5391420594ad915b6360f62e">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/733c706c5391420594ad915b6360f62e-da6572c3bf09d766-full-play.gif" title='Video Walkthrough' alt='Video Walkthrough' /> </a>
