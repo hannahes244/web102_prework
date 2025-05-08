@@ -10,25 +10,20 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] The search bar displays all games containing the characters entered
-* [ ] The Top Funded and Runner-Up sections display a game card with the game's name and image
-* [ ] The Top Funded and Runner-Up sections filter the game cards to display that game when pressed
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] The search bar displays all games containing the characters entered
+* [x] The Top Funded and Runner-Up sections display a game card with the game's name and image
+* [x] The Top Funded and Runner-Up sections filter the game cards to display that singular game when pressed
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src="https://github.com/user-attachments/assets/711fda6e-f40a-48bd-b495-b687e24c8364" title='Video Walkthrough' alt='Video Walkthrough'/>
-
-
 <div>
     <a href="https://www.loom.com/share/733c706c5391420594ad915b6360f62e">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/733c706c5391420594ad915b6360f62e-da6572c3bf09d766-full-play.gif" title='Video Walkthrough' alt='Video Walkthrough' /> </a>
