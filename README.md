@@ -39,7 +39,7 @@ GIF created with ... Loom
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I struggled with fully understanding the DOM at first, but once I understood it, everything became a lot easier.
 
 ## License
 
